@@ -1,7 +1,6 @@
 body {
     background-color: thistle;
-    width: auto 0 auto 0;
-    justify-content: center;
+    margin: auto 0 auto 0;
 }
 
 h1 {
