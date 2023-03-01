@@ -1,14 +1,14 @@
 body {
     background-color: thistle;
-    margin: auto 0 auto 0;
 }
 
 h1 {
     font-family: Impact, 'Arial Narrow Bold', sans-serif;
     font-size: 48pt;
+  
 }
 
 p {
     font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
-    font-size: 22pt;
+    font-size: 18pt;
 }
