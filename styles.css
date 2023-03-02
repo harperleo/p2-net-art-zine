@@ -1,14 +1,16 @@
 body {
-    background-color: thistle;
+    background-color: #3D1A1A;
 }
 
 h1 {
-    font-family: Impact, 'Arial Narrow Bold', sans-serif;
+    font-family: 'Uncial Antiqua', Impact, sans-serif;
     font-size: 48pt;
+    color:aliceblue;
   
 }
 
 p {
-    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+    font-family: monospace;
     font-size: 18pt;
+    color:aliceblue;
 }
