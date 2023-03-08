@@ -1,21 +1,24 @@
 body {
-    background-color: #3D1A1A;
+    background-color: black;
 }
 
 h1 {
-    font-family: 'Uncial Antiqua', Impact, sans-serif;
-    font-size: 48pt;
+    font-family: 'Grenze Gotisch', 'Times New Roman', Times, serif;
+    font-size: 72pt;
     color:aliceblue;
-  
+    font-weight:black;
+}
+
+#decisions {
+    font-weight:100;
 }
 
 p {
     font-family: monospace;
-    font-size: 18pt;
+    font-size: 16pt;
     color:aliceblue;
 }
 
 #zombies {
-    display:flex;
-    justify-content:space-evenly;
+    display:inline;
 }
