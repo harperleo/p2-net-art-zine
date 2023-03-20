@@ -2,11 +2,16 @@ body {
     background-color: black;
 }
 
+#link {
+    color: #d82435;
+    text-decoration:dotted;
+}
+
 h1 {
+    color:white;
     font-family: 'Grenze Gotisch', 'Times New Roman', Times, serif;
     font-size: 72pt;
-    color:aliceblue;
-    font-weight:black;
+    font-weight:1000;
 }
 
 #decisions {
@@ -16,9 +21,14 @@ h1 {
 p {
     font-family: monospace;
     font-size: 16pt;
-    color:aliceblue;
+    color:white;
 }
 
 #zombies {
     display:inline;
 }
+
+#zombies2 {
+    display:inline;
+}
+
